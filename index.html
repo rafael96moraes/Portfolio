@@ -1,7 +1,139 @@
-<h1>Welcome to My Website!</h1>
-<!-- Add an image of yourself that links to the about page -->
-<a src="./assets/images/cat.png" href="./public/about.html"></a>
+<!DOCTYPE html>
+<html lang="en">
 
-<hr />
-<!-- Add a link to your contact me page here -->
- <a href="./public/contact.html">Contact me</a>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rafael Moraes</title>
+  <meta name="description"
+    content="Portfólio profissional de Rafael Moraes - Engenheiro de Software Back-end especializado em .NET, C#, Banco de Dados, Contêineres e Cloud Computing.">
+  <meta name="keywords" content="Rafael Moraes, Back-end, .NET, C#, programador, engenheiro de software">
+  <meta name="author" content="Rafael Moraes">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- Welcome -->
+  <section id="welcome">
+    <div class="px-4 my-5 text-center">
+      <img class="d-block mx-auto mb-4" src="./assets/images/CalvinAndHobbes.jpg"
+        alt="Banner de boas-vindas - Personagens Calvin and Hobbes" width="55%" height="55%">
+      <h1 class="display-5 fw-bold">Rafael Moraes</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Engenheiro de Software Back-end | .NET | C#</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Presentation -->
+  <section id="presentation">
+    <div class="my-5">
+      <div class="p-5 text-center bg-body-tertiary">
+        <div class="container">
+          <img class="profile-img mb-3" src="./assets/images/rafael_picture.png"
+            alt="Foto de perfil de Rafael Moraes - Engenheiro de Software">
+          <h2 class="text-body-emphasis">Olá</h2>
+          <p class="col-lg-8 mx-auto lead mt-2">Desenvolvimento de soluções escaláveis e robustas com .NET e C#.
+            Especialista em arquitetura de microsserviços, banco de dados e cloud computing.</p>
+        </div>
+      </div>
+  </section>
+
+  <section id="skills">
+    <div class="container px-4" id="icon-grid">
+      <h2 class="pb-2 border-bottom">Experiências</h2>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-1 g-4 py-5">
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/code-svgrepo-com.svg" alt="Ícone .NET e C#"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">.NET / C#</h4>
+            <p>Desenvolvimento back-end com arquitetura SOLID, REST APIs e padrões de design.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/database-svgrepo-com.svg" alt="Ícone Banco de Dados"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Banco de Dados</h4>
+            <p>Expertise em SQL Server e NoSQL. Modelagem relacional, indexação e otimização de queries.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/letter-svgrepo-com.svg" alt="Ícone Messageiras"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Messageiras</h4>
+            <p>Integração assíncrona entre serviços com RabbitMQ e Kafka. Implementação de padrões de fila para
+              escalabilidade.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/monitor-heart-rate-svgrepo-com.svg" alt="Ícone Observabilidade e Monitoramento"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Observabilidade e Monitoramento</h4>
+            <p>Expertise em Dynatrace e Datadog. Análise de métricas, logs e rastreamento distribuído em tempo real.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/container-storage-svgrepo-com.svg" alt="Ícone Contêineres"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Contêineres</h4>
+            <p>Criação e gerenciamento de aplicações em Docker e Kubernetes, facilitando deploys ágeis e ambientes
+              escaláveis.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/test-tube-minimalistic-svgrepo-com.svg" alt="Ícone Testes Automatizados"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Testes</h4>
+            <p>Escrita de testes unitários, integração, funcionais, carga e contrato, garantindo qualidade contínua e
+              redução de falhas em produção.</p>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <img src="./assets/svg/cloud-svgrepo-com.svg" alt="Ícone Cloud Computing"
+            class="bi text-muted flex-shrink-0 me-3 skills-icon">
+          <div>
+            <h4 class="fw-bold mb-0">Cloud Computing</h4>
+            <p>Expertise em Azure. Implementação de serviços gerenciados, CI/CD e infraestrutura segura na nuvem.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <section id="contact" class="gradient-background">
+    <div class="container">
+      <footer class="py-5 mt-5 border-top text-center">
+        <h5 class="fw-bold mb-3">Contato</h5>
+        <p class="text-body-secondary mb-4">Conecte-se comigo ou envie uma mensagem</p>
+
+        <div class="d-flex gap-4 justify-content-center mb-4">
+          <a href="https://www.linkedin.com/in/rafael-moraes-268201188/" target="_blank" rel="noopener noreferrer"
+            class="text-decoration-none text-dark fw-bold">
+            LinkedIn
+          </a>
+          <a href="mailto:rafael96moraes@gmail.com.br" class="text-decoration-none text-dark fw-bold">
+            Email
+          </a>
+        </div>
+
+        <hr class="my-4">
+
+        <div class="text-body-secondary">
+          <p>&copy; 2025 Rafael Moraes. Todos os direitos reservados.</p>
+        </div>
+      </footer>
+    </div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+
+.profile-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.top-introduction{
+  width: 70%;
+}
+
+.skills-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+/* Responsividade para imagem do header */
+@media (max-width: 768px) {
+  .px-4.my-5 img {
+    width: 75% !important;
+    height: auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .px-4.my-5 img {
+    width: 90% !important;
+    height: auto !important;
+  }
+}
