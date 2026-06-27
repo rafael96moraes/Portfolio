@@ -1,20 +1,8 @@
 
 .profile-img {
-  width: 150px;
   height: 150px;
-  max-width: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.hero-img {
-  max-width: 700px;
-  width: 100%;
-  height: auto;
-}
-
-.top-introduction{
-  width: 70%;
+  width: 150px;
+  border-radius: 100%;
 }
 
 .skills-icon {
