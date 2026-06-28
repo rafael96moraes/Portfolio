@@ -1,0 +1,24 @@
+---
+import profile from "../data/profile.json";
+---
+
+<section class="hero" id="hero">
+  <img
+    class="hero-bg"
+    src="/assets/images/CalvinAndHobbes.jpg"
+    alt="Calvin and Hobbes"
+    loading="eager"
+  />
+  <div class="hero-overlay"></div>
+
+  <div class="hero-content">
+    <h1 class="animate-in">{profile.name}</h1>
+    <p class="hero-subtitle animate-in animate-in-delay-1">{profile.title}</p>
+    <p class="hero-tagline animate-in animate-in-delay-2">
+      "Aventureiro do código, explorador de arquiteturas e um pouco Calvin no dia a dia"
+    </p>
+    <a href="#about" class="btn-comic animate-in animate-in-delay-3">
+      Conheça minha história
+    </a>
+  </div>
+</section>

@@ -1,0 +1,25 @@
+---
+import skills from "../data/skills.json";
+---
+
+<section class="section" id="skills">
+  <div class="container">
+    <h2 class="section-title">Skills</h2>
+
+    <div class="skills-grid">
+      {skills.map((skill) => (
+        <div class="skill-card comic-panel">
+          <img
+            class="skill-icon"
+            src={skill.icon}
+            alt={skill.name}
+            loading="lazy"
+          />
+          <h3>{skill.name}</h3>
+          <p>{skill.description}</p>
+          <div class="hobbes-peek"></div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,37 @@
+[
+  {
+    "name": ".NET / C#",
+    "icon": "/assets/svg/code-svgrepo-com.svg",
+    "description": "Arquitetura SOLID, REST APIs, design patterns, C# avançado"
+  },
+  {
+    "name": "Banco de Dados",
+    "icon": "/assets/svg/database-svgrepo-com.svg",
+    "description": "SQL Server, NoSQL, modelagem relacional, índices, otimização de queries"
+  },
+  {
+    "name": "Message Brokers",
+    "icon": "/assets/svg/letter-svgrepo-com.svg",
+    "description": "RabbitMQ, Kafka, integração assíncrona, padrões de fila"
+  },
+  {
+    "name": "Observabilidade",
+    "icon": "/assets/svg/monitor-heart-rate-svgrepo-com.svg",
+    "description": "Dynatrace, Datadog, métricas, logs, tracing distribuído"
+  },
+  {
+    "name": "Contêineres",
+    "icon": "/assets/svg/container-storage-svgrepo-com.svg",
+    "description": "Docker, Kubernetes, deploys ágeis, ambientes escaláveis"
+  },
+  {
+    "name": "Testes",
+    "icon": "/assets/svg/test-tube-minimalistic-svgrepo-com.svg",
+    "description": "Unitários, integração, funcionais, carga, contrato"
+  },
+  {
+    "name": "Cloud Computing",
+    "icon": "/assets/svg/cloud-svgrepo-com.svg",
+    "description": "Azure, serviços gerenciados, CI/CD, infraestrutura segura"
+  }
+]

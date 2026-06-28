@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Cloud shape -->
+  <path d="M30 70 C14 70 8 58 14 48 C12 38 20 30 30 30 C32 20 44 14 54 18 C62 10 78 12 82 24 C94 26 96 42 86 50 C92 58 88 70 76 70 Z"
+        fill="white" stroke="#2B2B2B" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Gear inside cloud -->
+  <circle cx="50" cy="48" r="12" fill="none" stroke="#457B9D" stroke-width="4"/>
+  <circle cx="50" cy="48" r="5" fill="white" stroke="#2B2B2B" stroke-width="2.5"/>
+  <!-- Gear teeth -->
+  <path d="M50 34 L50 30 M50 62 L50 66 M36 48 L32 48 M64 48 L68 48 M40 38 L38 36 M60 58 L62 60 M60 38 L62 36 M40 58 L38 60"
+        fill="none" stroke="#457B9D" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Lightning bolt -->
+  <path d="M56 42 L44 50 L50 50 L42 62"
+        fill="none" stroke="#E63946" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Little face (Calvin style) -->
+  <circle cx="40" cy="44" r="2.5" fill="#2B2B2B"/>
+  <circle cx="58" cy="44" r="2.5" fill="#2B2B2B"/>
+  <path d="M44 50 Q50 54 56 50" fill="none" stroke="#2B2B2B" stroke-width="2" stroke-linecap="round"/>
+</svg>

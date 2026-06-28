@@ -1,0 +1,16 @@
+[
+  {
+    "company": "Nome da Empresa",
+    "role": "Seu Cargo",
+    "period": "Jan 2022 - Presente",
+    "description": "Descreva aqui suas principais responsabilidades, projetos e conquistas nesta empresa. Use este espaço para contar sua história profissional.",
+    "techs": [".NET", "C#", "Azure", "SQL Server"]
+  },
+  {
+    "company": "Empresa Anterior",
+    "role": "Cargo Anterior",
+    "period": "Mar 2019 - Dez 2021",
+    "description": "Adicione mais experiências seguindo este formato. Quanto mais detalhes, melhor para os recrutadores.",
+    "techs": [".NET", "C#", "Docker", "RabbitMQ"]
+  }
+]

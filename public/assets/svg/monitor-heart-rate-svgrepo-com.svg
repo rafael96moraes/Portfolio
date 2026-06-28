@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Monitor frame -->
+  <rect x="14" y="20" width="72" height="52" rx="6" fill="#1D3557" stroke="#2B2B2B" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Screen inner -->
+  <rect x="20" y="26" width="60" height="38" rx="3" fill="#FFF8E7"/>
+  <!-- Heartbeat line -->
+  <polyline points="22,48 32,48 36,38 42,58 48,42 52,50 58,36 64,50 68,48 78,48"
+            fill="none" stroke="#E63946" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Heart at end of line -->
+  <path d="M72 46 C72 44 74 42 76 44 C78 42 80 44 80 46 L76 52 Z" fill="#E63946" stroke="#2B2B2B" stroke-width="1.5"/>
+  <!-- Stand -->
+  <rect x="42" y="72" width="16" height="8" rx="2" fill="white" stroke="#2B2B2B" stroke-width="3"/>
+  <rect x="34" y="80" width="32" height="6" rx="3" fill="white" stroke="#2B2B2B" stroke-width="3"/>
+</svg>

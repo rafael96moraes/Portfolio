@@ -1,0 +1,11 @@
+{
+  "name": "Rafael Moraes",
+  "title": "Engenheiro de Software Back-end | .NET | C#",
+  "greeting": "Olá!",
+  "bio": "Desenvolvimento de soluções escaláveis e robustas com .NET e C#. Especialista em arquitetura de microsserviços, banco de dados e cloud computing. Transformo café em código e problemas complexos em soluções elegantes.",
+  "highlight": "Cada linha de código é uma aventura — e eu sou o Calvin do back-end.",
+  "photo": "/assets/images/rafael_picture.png",
+  "email": "rafael96moraes@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/rafaelmoraes",
+  "github": "https://github.com/rafaelmoraes"
+}

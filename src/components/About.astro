@@ -1,0 +1,29 @@
+---
+import profile from "../data/profile.json";
+---
+
+<section class="section" id="about">
+  <div class="container">
+    <h2 class="section-title">Sobre Mim</h2>
+
+    <div class="about-grid">
+      <div class="about-photo-wrapper">
+        <img
+          class="about-photo"
+          src={profile.photo}
+          alt={profile.name}
+          loading="lazy"
+        />
+        <span class="about-photo-label">{profile.name}</span>
+      </div>
+
+      <div class="speech-bubble">
+        <h3>{profile.greeting}</h3>
+        <p style="margin-top: 0.5rem;">{profile.bio}</p>
+        <p style="margin-top: 1rem; font-family: var(--font-heading); font-size: 1.3rem; color: var(--color-calvin-red);">
+          {profile.highlight}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
