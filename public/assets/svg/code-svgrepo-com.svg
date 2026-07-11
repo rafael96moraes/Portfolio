@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Speech bubble background -->
+  <path d="M50 12 C28 12 14 26 14 42 C14 56 24 66 38 70 L38 80 L48 72 C49 72 50 72 50 72 C72 72 86 58 86 42 C86 26 72 12 50 12 Z"
+        fill="white" stroke="#2B2B2B" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Code brackets </> -->
+  <path d="M38 38 L28 48 L38 58" fill="none" stroke="#2B2B2B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 38 L72 48 L62 58" fill="none" stroke="#2B2B2B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- # symbol -->
+  <text x="44" y="55" font-family="Arial Black, sans-serif" font-size="22" font-weight="900" fill="#E63946">#</text>
+</svg>

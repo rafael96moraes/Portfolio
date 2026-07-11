@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.next/
+.astro/
+astro/
+build/
+_env/
+.env
+.DS_Store
+*.local
+*.bak
+_astro/

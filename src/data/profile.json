@@ -1,0 +1,10 @@
+{
+  "name": "Rafael Moraes",
+  "title": "Engenheiro de Software Back-end | .NET",
+  "greeting": "Bem-vindo!",
+  "bio": "Backend Engineer com 6 anos em .NET. Movido pelo desafio de transformar problemas de negócio em código.",
+  "photo": "/assets/images/rafael_picture.png",
+  "email": "rafael96moraes@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/rafaelmoraes",
+  "github": "https://github.com/rafaelmoraes"
+}
