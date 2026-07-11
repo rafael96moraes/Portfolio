@@ -1,9 +1,8 @@
 {
   "name": "Rafael Moraes",
-  "title": "Engenheiro de Software Back-end | .NET | C#",
-  "greeting": "Olá!",
-  "bio": "Desenvolvimento de soluções escaláveis e robustas com .NET e C#. Especialista em arquitetura de microsserviços, banco de dados e cloud computing. Transformo café em código e problemas complexos em soluções elegantes.",
-  "highlight": "Cada linha de código é uma aventura — e eu sou o Calvin do back-end.",
+  "title": "Engenheiro de Software Back-end | .NET",
+  "greeting": "Bem-vindo!",
+  "bio": "Backend Engineer com 6 anos em .NET. Movido pelo desafio de transformar problemas de negócio em código.",
   "photo": "/assets/images/rafael_picture.png",
   "email": "rafael96moraes@gmail.com",
   "linkedin": "https://www.linkedin.com/in/rafaelmoraes",
