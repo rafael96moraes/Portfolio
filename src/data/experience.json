@@ -3,7 +3,7 @@
     "company": "XP Investimentos",
     "role": "Backend Developer - Pleno",
     "period": "Jan 2025 - Presente",
-    "description": "Liderança técnica: redução de 66% em incidentes (30→10/mês) com arquitetura proativa. Protagonista em projetos de impacto: sistema de antecipação de resgate de fundos (98% cobertura, eliminando atrito), orquestração de notificações push para Voto Assembleia FII (aumento de 40%+ em participação). Mentoria estruturada de 3 devs juniores.",
+    "description": "Dono técnico em projetos estratégicos: sistema de antecipação de resgate com 98% cobertura, notificações para votação em assembleia FII (preparado para crescimento).",
     "techs": [".NET", "C#", "JavaScript", "Node.js", "Azure", "AKS", "Redis", "RabbitMQ", "SQL Server", "Oracle", "Azure DevOps", "Unit Tests", "Integration Tests", "Load Tests", "Contract Tests", "Functional Tests", "CI/CD"]
   },
   {
