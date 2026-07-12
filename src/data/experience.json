@@ -3,14 +3,14 @@
     "company": "XP Investimentos",
     "role": "Backend Developer - Pleno",
     "period": "Jan 2025 - Presente",
-    "description": "Dono técnico em projetos estratégicos: sistema de antecipação de resgate com 98% cobertura, notificações para votação em assembleia FII (preparado para crescimento).",
+    "description": "Atuação estratégica em projetos de novos produtos inovadores do mercado financeiro, como Fundos Renda+ e Fundos Alternativos, garantindo uma experiência fluida aos clientes mesmo com características operacionais distintas dos produtos tradicionais.",
     "techs": [".NET", "C#", "JavaScript", "Node.js", "Azure", "AKS", "Redis", "RabbitMQ", "SQL Server", "Oracle", "Azure DevOps", "Unit Tests", "Integration Tests", "Load Tests", "Contract Tests", "Functional Tests", "CI/CD"]
   },
   {
     "company": "XP Investimentos",
     "role": "Backend Developer - Júnior",
     "period": "Jan 2022 - Dez 2024",
-    "description": "\"Guardião de sustentação\" da squad — responsável por atender todos incidentes, estudar raízes das maiores dores operacionais e implementar correções sistemáticas. Redução de 67% em incidentes (90→30/mês) através de análise profunda, monitoramento proativo, padrões resilientes e alinhamentos operacionais.",
+    "description": "Responsável por atender todos incidentes, estudar raízes das maiores dores operacionais e implementar correções sistemáticas. Redução de 67% em incidentes (90→30/mês) através de análise profunda, monitoramento proativo, padrões resilientes e alinhamentos operacionais.",
     "techs": [".NET", "C#", "Azure", "AKS", "Redis", "RabbitMQ", "SQL Server", "Oracle", "Azure DevOps", "Unit Tests", "Integration Tests", "Load Tests", "Contract Tests", "Functional Tests", "CI/CD"]
   },
   {
